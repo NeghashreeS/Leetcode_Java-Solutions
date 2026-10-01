@@ -18,3 +18,15 @@ This repository contains my solutions to LeetCode problems implemented in **Java
 ## 🚀 My Goal
 
 I aim to solve LeetCode problems consistently, improve my coding efficiency, and develop a strong understanding of DSA concepts through regular practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
