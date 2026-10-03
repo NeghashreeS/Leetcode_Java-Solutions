@@ -29,4 +29,8 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
