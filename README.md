@@ -25,6 +25,7 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,9 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
