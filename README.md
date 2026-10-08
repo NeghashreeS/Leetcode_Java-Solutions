@@ -26,6 +26,7 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 | ------- |
 | [0001-two-sum](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
