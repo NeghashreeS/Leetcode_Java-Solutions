@@ -28,6 +28,7 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 | [0014-longest-common-prefix](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -56,5 +57,6 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
