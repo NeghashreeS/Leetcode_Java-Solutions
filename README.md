@@ -42,6 +42,7 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 | [0009-palindrome-number](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
