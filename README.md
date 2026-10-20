@@ -31,6 +31,7 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -76,4 +77,8 @@ I aim to solve LeetCode problems consistently, improve my coding efficiency, and
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/NeghashreeS/Leetcode_Java-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
